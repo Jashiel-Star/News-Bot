@@ -8,6 +8,8 @@
 'Why the Why is Important',https://nosleep.substack.com/p/why-the-why-is-important,['NoSleep']
 'The Way of the Ape',https://nosleep.substack.com/p/the-way-of-the-ape,['NoSleep']
 "'Free Coins, Gud Coins, Evmos Szn'",https://nosleep.substack.com/p/free-coins-gud-coins-evmos-szn,['NoSleep']
+'rDPX v2 Event Driven Trade',https://onchainwizard.substack.com/p/rdpx-v2-event-driven-trade,"[""Onchain Wizard's Cauldron""]"
+'ETH Merge: What to Expect',https://onchainwizard.substack.com/p/eth-merge-what-to-expect,"[""Onchain Wizard's Cauldron""]"
 'Whale Watching – August 2022',https://onchainwizard.substack.com/p/whale-watching-august-2022,"[""Onchain Wizard's Cauldron""]"
 'Top Narratives & Catalysts to Watch',https://onchainwizard.substack.com/p/top-narratives-and-catalysts-to-watch,"[""Onchain Wizard's Cauldron""]"
 'OCW: Catalyst Idea via Github Sleuthing',https://onchainwizard.substack.com/p/ocw-catalyst-idea-via-github-sleuthing,"[""Onchain Wizard's Cauldron""]"
@@ -18,8 +20,6 @@
 'OCW: Real Yield',https://onchainwizard.substack.com/p/ocw-real-yield,"[""Onchain Wizard's Cauldron""]"
 'OCW: Market Cheat Sheet',https://onchainwizard.substack.com/p/ocw-market-cheat-sheet,"[""Onchain Wizard's Cauldron""]"
 'Onchain Wizard - Whale Watching – July 2022',https://onchainwizard.substack.com/p/onchain-wizard-whale-watching-july,"[""Onchain Wizard's Cauldron""]"
-'OCW Whale Watching Case Study',https://onchainwizard.substack.com/p/ocw-whale-watching-case-study,"[""Onchain Wizard's Cauldron""]"
-'OCW: Intro to Illuvium',https://onchainwizard.substack.com/p/ocw-intro-to-illuvium,"[""Onchain Wizard's Cauldron""]"
 "'Staking, pegging and other stuff'",https://cobie.substack.com/p/staking-pegging-and-other-stuff,['Cobie']
 'ApeCoin & the death of staking',https://cobie.substack.com/p/apecoin-and-the-death-of-staking,['Cobie']
 'Incentives structures ',https://cobie.substack.com/p/incentives-structures,['Cobie']
@@ -30,6 +30,10 @@
 'Trading the metagame',https://cobie.substack.com/p/trading-the-metagame,['Cobie']
 'On the meme of market caps & unlocks',https://cobie.substack.com/p/on-the-meme-of-market-caps-and-unlocks,['Cobie']
 'Longer form rambling and descent into madness',https://cobie.substack.com/p/coming-soon,['Cobie']
+"'The Daily Degen - September 11th, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-september-11th-2022,['The Daily Degen']
+"'The Daily Degen - September 10th, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-september-10th-2022,['The Daily Degen']
+"'The Daily Degen - September 9th, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-september-9th-2022,['The Daily Degen']
+"'The Daily Degen - September 8th, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-september-8th-2022,['The Daily Degen']
 "'The Daily Degen - September 7th, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-september-7th-2022,['The Daily Degen']
 "'The Daily Degen - September 6th, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-september-6th-2022,['The Daily Degen']
 "'The Daily Degen - September 5th, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-september-5th-2022,['The Daily Degen']
@@ -38,7 +42,27 @@
 "'The Daily Degen - September 2nd, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-september-2nd-2022,['The Daily Degen']
 "'The Daily Degen - September 1st, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-september-1st-2022,['The Daily Degen']
 'Special Edition: Interview With Top-Ranked Debank Whale @bizyugo!',https://thedailydegen.substack.com/p/special-edition-interview-with-top,['The Daily Degen']
-"'The Daily Degen - August 31st, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-august-31st-2022,['The Daily Degen']
-"'The Daily Degen - August 30th, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-august-30th-2022,['The Daily Degen']
-"'The Daily Degen - August 29th, 2022 '",https://thedailydegen.substack.com/p/the-daily-degen-august-29th-2022,['The Daily Degen']
-"'The Daily Degen - August 28th, 2022'",https://thedailydegen.substack.com/p/the-daily-degen-august-28th-2022,['The Daily Degen']
+"""We're back""",https://theknower.substack.com/p/were-back,"[""knower's substack""]"
+"""Where are the emperor's clothes?""",https://theknower.substack.com/p/where-are-the-emperors-clothes,"[""knower's substack""]"
+"'Good crypto, bad crypto'",https://theknower.substack.com/p/good-crypto-bad-crypto,"[""knower's substack""]"
+'Brave new world',https://theknower.substack.com/p/brave-new-world,"[""knower's substack""]"
+'Complaining about crypto & web3',https://theknower.substack.com/p/complaining-about-crypto-and-web3,"[""knower's substack""]"
+'Coming at you live from goblin town',https://theknower.substack.com/p/coming-at-you-live-from-goblin-town,"[""knower's substack""]"
+'Breaking away from cyclicality',https://theknower.substack.com/p/breaking-away-from-cyclicality,"[""knower's substack""]"
+'The decomposition of attention',https://theknower.substack.com/p/the-decomposition-of-attention,"[""knower's substack""]"
+'Methodenstreit',https://theknower.substack.com/p/methodenstreit,"[""knower's substack""]"
+'The Golden Bullrun ',https://theknower.substack.com/p/the-golden-bullrun,"[""knower's substack""]"
+'An argument for DeFi 3.0 ',https://theknower.substack.com/p/an-argument-for-defi-30,"[""knower's substack""]"
+'A reimagining of society',https://theknower.substack.com/p/a-reimagining-of-society,"[""knower's substack""]"
+"'Today in DeFi Premium - Curve Live on Kava, Y2K Live on Arbitrum Testnet, Intro to RocketPool, and More...'",https://todayindefi.substack.com/p/today-in-defi-premium-curve-live,['Today in DeFi']
+"'Today in DeFi Premium - Rage Trade Live on Arbitrum, dAMM Live on Ethereum, Intro to Stride, and More...'",https://todayindefi.substack.com/p/today-in-defi-premium-rage-trade,['Today in DeFi']
+"'Today in DeFi Premium - Ethereum Bellatrix Successful, Fraxlend Live, Klex Farming Guide, and More...'",https://todayindefi.substack.com/p/today-in-defi-premium-ethereum-bellatrix,['Today in DeFi']
+"'Today in DeFi Premium - Cardano Vasil Upgrade Coming, BarnBridge V2 Live & Farming Guide, and More...'",https://todayindefi.substack.com/p/today-in-defi-premium-cardano-vasil,['Today in DeFi']
+"'Last Week in DeFi Premium - Arbitrum Nitro Live, Compound cETH Frozen, Ethereum Bellatrix Upgrade Coming, and More... '",https://todayindefi.substack.com/p/last-week-in-defi-premium-arbitrum-dc5,['Today in DeFi']
+"'Today in DeFi Premium - Sudoswap token, Kyberswap hacked, and More '",https://todayindefi.substack.com/p/today-in-defi-premium-sudoswap-token,['Today in DeFi']
+"'Today in DeFi Premium - Arbitrum Nitro Live, Liquid Staking for Cosmos, Intro to Cone Exchange, and More...'",https://todayindefi.substack.com/p/today-in-defi-premium-arbitrum-nitro-50c,['Today in DeFi']
+"'Today in DeFi Premium - Compound cETH Frozen, Seaport on Polygon, Intro to PlutusDAO, and More... '",https://todayindefi.substack.com/p/today-in-defi-premium-compound-ceth,['Today in DeFi']
+"'Today in DeFi Premium - PlutusDAO plvGLP Live, OptiFi Accidental Close, Intro to Sommelier Finance, and More...'",https://todayindefi.substack.com/p/today-in-defi-premium-plutusdao-plvglp,['Today in DeFi']
+"'Last Week in DeFi Premium - Compound V3 Live, Swell Guarded Launch, Maker HVBank Deal, and More... '",https://todayindefi.substack.com/p/last-week-in-defi-compound-v3-live,['Today in DeFi']
+"'Today in DeFi Premium - Compound V3 Live, Lido on Loopring, Canto Farming Guide Pt. II, and More...'",https://todayindefi.substack.com/p/today-in-defi-premium-compound-v3-164,['Today in DeFi']
+"'Today in DeFi Premium - TreasureDAO MagicSwap Live, Coinbase Liquid Staking, Canto Farming Guide Pt. I, and More...'",https://todayindefi.substack.com/p/today-in-defi-premium-treasuredao,['Today in DeFi']

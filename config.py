@@ -1,0 +1,1 @@
+url_list = ['https://nosleep.substack.com/archive', 'https://onchainwizard.substack.com/archive', 'https://cobie.substack.com/archive', 'https://thedailydegen.substack.com/archive', 'https://theknower.substack.com/archive', 'https://todayindefi.substack.com/archive', 'https://thebrick.substack.com/archive', 'https://0xhamz.substack.com/archive']

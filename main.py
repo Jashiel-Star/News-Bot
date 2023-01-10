@@ -4,11 +4,11 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import csv
+from config import url_list
 #format the file
 clear = open('articles.csv', 'w+')
 clear.close
 #here we add links to substacks archives, only articles (no podcasts)
-url_list = ['https://nosleep.substack.com/archive', 'https://onchainwizard.substack.com/archive', 'https://cobie.substack.com/archive', 'https://thedailydegen.substack.com/archive', 'https://theknower.substack.com/archive', 'https://todayindefi.substack.com/archive']
 for url in url_list:
     response = requests.get(url)
     #We convert the response into unicode for standardization purposes
